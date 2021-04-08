@@ -8,6 +8,7 @@ namespace Core
         {
             if (info == null) throw new ArgumentNullException(nameof(info));
             Console.WriteLine(info);
+            Console.WriteLine("Executado com sucesso");
         }
     }
 }
