@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ThD+5XyEhwJRV6QMfbVYQFvV/+Jvsh00dR69uNsh4Balvynn2vBKWCvKJ1GIBd0mkeY1vIgGa011RRt4g4AeQ==",
+  "dgSpecHash": "J9zRtRG9qDlxKFkOfRw4Ro2YSo59gmd1JcJjWufCMQ3EMrmGHJujWb2ocBSWpTnk9DP8BRbqmLdoJW9bFX0vXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\robso\\RiderProjects\\Core\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\robso\\RiderProjects\\EfCore.Core\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
